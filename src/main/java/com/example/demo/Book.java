@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 public class Book implements Serializable {
 
+	//测试提交GitHub
 	private Integer id;
 	private String name;
 	private String author;
